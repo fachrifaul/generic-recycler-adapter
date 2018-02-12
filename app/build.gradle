@@ -32,6 +32,6 @@ dependencies {
     implementation project(':genericrecycleradapter')
 
     /* Release Check */
-//    final genericRecyclerAdapterVersion = '1.0.0'
-//    compile "com.github.fachrifaul:generic-recycler-adapter:${genericRecyclerAdapterVersion}"
+    //final genericRecyclerAdapterVersion = '1.0.0'
+    //implementation "com.github.fachrifaul:generic-recycler-adapter:${genericRecyclerAdapterVersion}"
 }
